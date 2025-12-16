@@ -1,5 +1,7 @@
 # internal-platform
 
+## 4.3.1
+
 ## 4.3.0
 
 ### Minor Changes

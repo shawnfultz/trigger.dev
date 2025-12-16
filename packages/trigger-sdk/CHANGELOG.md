@@ -1,5 +1,13 @@
 # @trigger.dev/sdk
 
+## 4.3.1
+
+### Patch Changes
+
+- feat: Support for new batch trigger system ([#2779](https://github.com/triggerdotdev/trigger.dev/pull/2779))
+- Updated dependencies:
+  - `@trigger.dev/core@4.3.1`
+
 ## 4.3.0
 
 ### Patch Changes
